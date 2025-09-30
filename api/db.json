@@ -1,0 +1,274 @@
+{
+  "categories": [
+    {
+      "id": "cat-001",
+      "name": "Women Clothing"
+    },
+    {
+      "id": "cat-002",
+      "name": "Men Clothing"
+    },
+    {
+      "id": "cat-003",
+      "name": "Accessories"
+    },
+    {
+      "id": "cat-004",
+      "name": "Footwear"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1003",
+      "name": "Canvas Tote Bag",
+      "sku": "AC-300",
+      "category": "Accessories",
+      "brand": "The Collective India",
+      "price": 499,
+      "currency": "INR",
+      "stock": 50,
+      "images": [
+        "/images/tote-1.jpg"
+      ],
+      "description": "Reusable canvas tote bag, medium size"
+    },
+    {
+      "id": "prod-1004",
+      "name": "Everyday Sneakers",
+      "sku": "FW-501",
+      "category": "Footwear",
+      "brand": "UrbanWear",
+      "price": 2299,
+      "currency": "INR",
+      "stock": 12,
+      "images": [
+        "/images/sneakers-1.jpg"
+      ],
+      "description": "Comfortable sneakers for daily walks"
+    },
+    {
+      "id": "prod-1005",
+      "name": "Navara Dupatta",
+      "sku": "NC-W-002",
+      "category": "Women Clothing",
+      "brand": "The Collective India",
+      "price": 399,
+      "currency": "INR",
+      "stock": 30,
+      "images": [
+        "/images/dupatta-1.jpg"
+      ],
+      "description": "Light printed dupatta to pair with kurtis"
+    },
+    {
+      "id": "prod-1006",
+      "name": "Leather Wallet",
+      "sku": "AC-101",
+      "category": "Accessories",
+      "brand": "UrbanWear",
+      "price": 699,
+      "currency": "INR",
+      "stock": 25,
+      "images": [
+        "/images/wallet-1.jpg"
+      ],
+      "description": "Classic leather wallet with card slots"
+    },
+    {
+      "id": "prod-1007",
+      "name": "Sports Joggers",
+      "sku": "UB-M-020",
+      "category": "Men Clothing",
+      "brand": "UrbanWear",
+      "price": 1299,
+      "currency": "INR",
+      "stock": 18,
+      "images": [
+        "/images/joggers-1.jpg"
+      ],
+      "description": "Comfortable joggers with elastic waistband"
+    },
+    {
+      "id": "prod-1008",
+      "name": "Floral Maxi Dress",
+      "sku": "NC-W-010",
+      "category": "Women Clothing",
+      "brand": "The Collective India",
+      "price": 1599,
+      "currency": "INR",
+      "stock": 10,
+      "images": [
+        "/images/maxi-1.jpg"
+      ],
+      "description": "Flowy floral maxi dress for casual wear"
+    },
+    {
+      "id": "prod-1009",
+      "name": "Unisex Sunglasses",
+      "sku": "AC-205",
+      "category": "Accessories",
+      "brand": "UrbanWear",
+      "price": 799,
+      "currency": "INR",
+      "stock": 40,
+      "images": [
+        "/images/sunglasses-1.jpg"
+      ],
+      "description": "UV-protected stylish sunglasses"
+    },
+    {
+      "id": "prod-1010",
+      "name": "Casual Loafers",
+      "sku": "FW-601",
+      "category": "Footwear",
+      "brand": "UrbanWear",
+      "price": 1899,
+      "currency": "INR",
+      "stock": 14,
+      "images": [
+        "/images/loafers-1.jpg"
+      ],
+      "description": "Casual loafers with soft sole"
+    },
+    {
+      "id": "prod-1011",
+      "name": "Denim Jacket",
+      "sku": "UB-M-030",
+      "category": "Men Clothing",
+      "brand": "UrbanWear",
+      "price": 2499,
+      "currency": "INR",
+      "stock": 8,
+      "images": [
+        "/images/jacket-1.jpg"
+      ],
+      "description": "Stylish blue denim jacket"
+    },
+    {
+      "id": "prod-1012",
+      "name": "Printed Saree",
+      "sku": "NC-W-015",
+      "category": "Women Clothing",
+      "brand": "The Collective India",
+      "price": 2199,
+      "currency": "INR",
+      "stock": 6,
+      "images": [
+        "/images/saree-1.jpg"
+      ],
+      "description": "Lightweight printed saree"
+    },
+    {
+      "id": "prod-1013",
+      "name": "Classic Belt",
+      "sku": "AC-310",
+      "category": "Accessories",
+      "brand": "UrbanWear",
+      "price": 599,
+      "currency": "INR",
+      "stock": 35,
+      "images": [
+        "/images/belt-1.jpg"
+      ],
+      "description": "Adjustable leather belt"
+    },
+    {
+      "id": "prod-1014",
+      "name": "Formal Trousers",
+      "sku": "UB-M-050",
+      "category": "Men Clothing",
+      "brand": "UrbanWear",
+      "price": 1599,
+      "currency": "INR",
+      "stock": 20,
+      "images": [
+        "/images/trousers-1.jpg"
+      ],
+      "description": "Slim fit formal trousers"
+    },
+    {
+      "id": "prod-1015",
+      "name": "Ethnic Anarkali",
+      "sku": "NC-W-020",
+      "category": "Women Clothing",
+      "brand": "The Collective India",
+      "price": 3499,
+      "currency": "INR",
+      "stock": 7,
+      "images": [
+        "/images/anarkali-1.jpg"
+      ],
+      "description": "Designer ethnic Anarkali suit"
+    },
+    {
+      "id": "prod-1016",
+      "name": "Travel Backpack",
+      "sku": "AC-400",
+      "category": "Accessories",
+      "brand": "UrbanWear",
+      "price": 1799,
+      "currency": "INR",
+      "stock": 22,
+      "images": [
+        "/images/backpack-1.jpg"
+      ],
+      "description": "Durable travel backpack with multiple compartments"
+    },
+    {
+      "id": "prod-1017",
+      "name": "Running Shoes",
+      "sku": "FW-700",
+      "category": "Footwear",
+      "brand": "UrbanWear",
+      "price": 2599,
+      "currency": "INR",
+      "stock": 11,
+      "images": [
+        "/images/runningshoes-1.jpg"
+      ],
+      "description": "Lightweight running shoes"
+    },
+    {
+      "id": "prod-1018",
+      "name": "Party Gown",
+      "sku": "NC-W-025",
+      "category": "Women Clothing",
+      "brand": "The Collective India",
+      "price": 4999,
+      "currency": "INR",
+      "stock": 5,
+      "images": [
+        "/images/gown-1.jpg"
+      ],
+      "description": "Elegant party gown for special occasions"
+    },
+    {
+      "id": "prod-1019",
+      "name": "Polo T-shirt",
+      "sku": "UB-M-055",
+      "category": "Men Clothing",
+      "brand": "UrbanWear",
+      "price": 799,
+      "currency": "INR",
+      "stock": 25,
+      "images": [
+        "/images/polo-1.jpg"
+      ],
+      "description": "Casual polo t-shirt with collar"
+    },
+    {
+      "id": "prod-1020",
+      "name": "Smartwatch",
+      "sku": "AC-500",
+      "category": "Accessories",
+      "brand": "UrbanWear",
+      "price": 2999,
+      "currency": "INR",
+      "stock": 13,
+      "images": [
+        "/images/watch-1.jpg"
+      ],
+      "description": "Bluetooth enabled smartwatch"
+    }
+  ]
+}
